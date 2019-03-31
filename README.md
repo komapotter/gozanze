@@ -1,6 +1,5 @@
 # Gozanze
 
----
 a load testing tool written in go
 
 
